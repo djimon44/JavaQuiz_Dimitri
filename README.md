@@ -1,1 +1,1 @@
-This is a Quiz 1 repository
+This is a Quiz repository
