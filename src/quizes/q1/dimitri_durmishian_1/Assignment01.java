@@ -14,7 +14,6 @@ public class Assignment01 {
 }
 
 /**
- * Changed the class name from Assignment01 to Assignment01 to comply with Java naming conventions.
  * Changed variable names A and B to a and b to comply with Java naming conventions.
  * Added a space after the string "The sum of the numbers is" for proper formatting.
  * Added parentheses around the sum (a + b) to ensure correct addition and concatenation within the System.out.println statement.
