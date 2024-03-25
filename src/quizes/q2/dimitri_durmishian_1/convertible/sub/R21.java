@@ -10,6 +10,10 @@ public class R21 {
         System.out.println("Area of the rectangle is: " + area);
 
         // Print out the name of the month
-        System.out.println("The name of the month from A22 class is: " + A22.month);
+        if (A22.month < 1 && A22.month > 12) {
+            System.out.println("Invalid");
+        } else {
+            System.out.println("The name of the month from A22 class is: " + A22.month);
+        }
     }
 }
